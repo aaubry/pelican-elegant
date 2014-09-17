@@ -1,0 +1,3 @@
+[remote "origin"]
+	url = https://github.com/aaubry/pelican-elegant.git
+	pushurl = git@github.com:aaubry/pelican-elegant.git
